@@ -1,0 +1,42 @@
+.navigation{
+	z-index: 9;
+	width: 100%;
+	background-color: rgb(183,177,177,0.5);
+}
+.text1{
+text-align: justify;
+font-size: 20px;
+}
+.button_{
+display: inline-block;
+text-align: center;
+}
+.card-body{
+padding: 0px;
+}
+.card-title{
+	padding: 0px 15px;
+}
+.form-button{
+	background-color:blue;
+	color: #fff;
+}
+i{
+	border:1px solid #fff;
+	padding: 10px;
+	font-size: 25px;
+	border-radius:50%;
+	height: 40px;
+	width:40px;
+	text-align: center;
+
+
+}
+.footer-icon-section{
+	border-top:2px solid green;
+	text-align: right;
+
+}
+.copyright{
+	text-align: left !important;
+}
